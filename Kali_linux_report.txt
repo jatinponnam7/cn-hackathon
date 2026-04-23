@@ -1,0 +1,13 @@
+Kali Linux Information Report
+
+Kali Linux is a Debian-based operating system used for cybersecurity and penetration testing.
+It provides tools for network analysis, vulnerability testing, and ethical hacking.
+
+In this project, Kali Linux is used to:
+- Run Nmap for port scanning
+- Use Netcat for communication
+- Capture packets using Wireshark
+- Analyze packets using Tshark
+- Run a Bash script for IDS detection
+
+It provides a safe environment to simulate both attacker and defender scenarios.
