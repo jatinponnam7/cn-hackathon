@@ -1,0 +1,7 @@
+Abstract:
+
+Behaviour-Based Network Traffic Detection using Packet Analysis
+This project focuses on detecting abnormal network traffic using packet behaviour.
+Tools like Nmap, Netcat, and Wireshark are used to simulate network communication and attacks.
+A mini Intrusion Detection System (IDS) is implemented using a Bash script that monitors TCP SYN packets. If the number of SYN packets exceeds a threshold, the system detects it as suspicious activity such as port scanning and generates an alert.
+This demonstrates how behaviour-based detection is used in real-world network security.
